@@ -55,7 +55,7 @@ catalog:
   '@xterm/xterm': ^5.5.0
   ahooks: ^3.9.5
   ajv: ^8.17.1
-  axios: ^1.18.0
+  axios: ^1.20.0
   chalk: ^5.6.2
   date-fns: ^3.6.0
   dayjs: 1.11.19
