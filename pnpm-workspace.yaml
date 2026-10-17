@@ -83,7 +83,7 @@ catalog:
   next-i18next: 15.4.2
   nodemailer: ^7.0.13
   postcss: ^8.5.12
-  proxy-addr: 2.0.7
+  proxy-addr: 2.0.8
   proxy-agent: ^6
   react: ^18
   react-dom: ^18
